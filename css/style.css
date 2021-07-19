@@ -18,6 +18,9 @@ header{
     padding-inline-end: 10px;
 }
 
+section{
+    color: white;
+}
 
 .title{
     font-size: 26px;
